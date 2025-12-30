@@ -25,10 +25,14 @@ export const metadata: Metadata = {
     "türkçe oyun",
     "kelime curcunası",
   ],
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
   openGraph: {
     title: "Kelime Curcunası",
     description: "Sesli ve çizimli takım bazlı kelime oyunu",
-    images: ["/og-image.png"],
+    images: ["/logo.png"],
   },
 };
 
