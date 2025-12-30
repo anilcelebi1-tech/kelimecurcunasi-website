@@ -14,7 +14,7 @@ export default function PrivacyPolicy() {
 
       <article className="prose prose-invert prose-yellow max-w-none">
         <h1 className="text-4xl font-bold mb-8 italic">Gizlilik Politikası</h1>
-        <p className="text-muted-foreground mb-8">Son güncelleme: 1 Ocak 2025</p>
+        <p className="text-muted-foreground mb-8">Son güncelleme: 1 Ocak 2026</p>
 
         <section className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-primary">1. Veri Sorumlusu ve Giriş</h2>
